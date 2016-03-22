@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>大白人物</title>
+		<link rel="stylesheet" href="css/dabai.css" />
+	</head>
+	<body>
+		<div id="baymax">
+			<!--
+            	作者：351578076@qq.com
+            	时间：2016-03-07
+            	描述：大白的头部
+            -->
+			<div id="head">
+				<div id="eye"></div>
+				<div id="eye2"></div>
+				<div id="mouth"></div>
+			</div>
+			<!--
+            	作者：351578076@qq.com
+            	时间：2016-03-07
+            	描述：定义大白的躯干，包括心脏
+            -->
+            <div id="torso">
+            	<div id="heart"></div>
+            </div>
+            <!--
+            	作者：351578076@qq.com
+            	时间：2016-03-07
+            	描述：定义大白的肚子
+            -->
+            <div id="belly">
+            	<div id="cover"></div>
+            </div>
+        	<!--
+            	作者：351578076@qq.com
+            	时间：2016-03-07
+            	描述：定义大白的左臂
+            -->
+            <div id="left-arm">
+            	<div id="l-bigfinger"></div>
+            	<div id="l-smallfinger"></div>
+            </div>
+			<!--
+            	作者：351578076@qq.com
+            	时间：2016-03-07
+            	描述：定义大白的左臂
+            -->
+            <div id="right-arm">
+            	<div id="r-bigfinger"></div>
+            	<div id="r-smallfinger"></div>
+            </div>
+            <!--
+            	作者：351578076@qq.com
+            	时间：2016-03-07
+            	描述：定义大白的左腿
+            -->
+            <div id="left-leg"></div>
+            <!--
+            	作者：351578076@qq.com
+            	时间：2016-03-07
+            	描述：定义大白的右腿
+            -->
+            <div id="right-leg"></div>
+		</div>
+	</body>
+</html>
